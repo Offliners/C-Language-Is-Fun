@@ -3,7 +3,7 @@
 * [Hello.c](Basic/Hello.c)
 
 ## IDE
-* MinGW
+* MinGW32
 
 ## Reference
 https://www.programiz.com/c-programming/examples
