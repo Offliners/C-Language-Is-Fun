@@ -2,7 +2,7 @@
 ## Basic
 * [Hello.c](Basic/Hello.c)
 
-## IDE
+## Compiler
 * MinGW32
 
 ## Reference
