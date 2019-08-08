@@ -1,4 +1,4 @@
-# C Language Have Fun
+# C Language Is Fun
 ## Basic
 * [Hello.c](Basic/Hello.c)
 
