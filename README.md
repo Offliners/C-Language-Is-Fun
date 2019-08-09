@@ -11,6 +11,9 @@
 * [Swap Two Numbers](Basic/Swap-Two-Numbers.c)
 * [Check Whether a Number is Even or Odd](Basic/Check-Whether-a-Number-is-Even-or-Odd.c)
 * [Check Whether a Character is Vowel or Consonant](Basic/Check-Whether-a-Character-is-Vowel-or-Consonant.c)
+* [Find the Largest Number Among Three Numbers](Basic/Find-the-Largest-Number-Among-Three-Numbers.c)
+* [Find all Roots of a Quadratic Equation](Basic/Find-all-Roots-of-a-Quadratic-Equation.c)
+* [Check Leap Year](Basic/Check-Leap-Year.c)
 
 ## Compiler
 * MinGW32
