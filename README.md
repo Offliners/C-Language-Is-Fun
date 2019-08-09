@@ -9,6 +9,7 @@
 * [Find the Size of int, float, double and char](Basic/Find-the-Size-of-int-float-double-and-char.c)
 * [Demonstrate the Working of Keyword long](Basic/Demonstrate-the-Working-of-Keyword-long.c)
 * [Swap Two Numbers](Basic/Swap-Two-Numbers.c)
+* [Check Whether a Number is Even or Odd](Basic/Check-Whether-a-Number-is-Even-or-Odd.c)
 
 ## Compiler
 * MinGW32
