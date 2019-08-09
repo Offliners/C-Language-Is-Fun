@@ -10,6 +10,7 @@
 * [Demonstrate the Working of Keyword long](Basic/Demonstrate-the-Working-of-Keyword-long.c)
 * [Swap Two Numbers](Basic/Swap-Two-Numbers.c)
 * [Check Whether a Number is Even or Odd](Basic/Check-Whether-a-Number-is-Even-or-Odd.c)
+* [Check Whether a Character is Vowel or Consonant](Basic/Check-Whether-a-Character-is-Vowel-or-Consonant.c)
 
 ## Compiler
 * MinGW32
