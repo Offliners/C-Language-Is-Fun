@@ -7,6 +7,7 @@
 * [Find ASCII Value of a Character](Basic/Find-ASCII-Value-of-a-Character.c)
 * [Compute Quotient and Remainder](Basic/Compute-Quotient-and-Remainder.c)
 * [Find the Size of int, float, double and char](Basic/Find-the-Size-of-int-float-double-and-char.c)
+* [Demonstrate the Working of Keyword long](Basic/Demonstrate-the-Working-of-Keyword-long.c)
 
 ## Compiler
 * MinGW32
