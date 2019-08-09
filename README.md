@@ -2,6 +2,11 @@
 ## Basic
 * [Hello](Basic/Hello.c)
 * [Print an Integer (Entered by the User)](Basic/Print-an-Integer(Entered-by-the-User).c)
+* [Add Two Integers](Basic/Add-Two-Integers.c)
+* [Multiply two Floating Point Numbers](Basic/Multiply-two-Floating-Point-Numbers.c)
+* [Find ASCII Value of a Character](Basic/Find-ASCII-Value-of-a-Character.c)
+* [Compute Quotient and Remainder](Basic/Compute-Quotient-and-Remainder.c)
+* [Find the Size of int, float, double and char](Basic/Find-the-Size-of-int-float-double-and-char.c)
 
 ## Compiler
 * MinGW32
