@@ -22,6 +22,7 @@
 * [Display Fibonacci Sequence](Basic/Display-Fibonacci-Sequence.c)
 * [Find GCD of two Numbers](Basic/Find-GCD-of-two-Numbers.c)
 * [Find LCM of two Numbers](Basic/Find-LCM-of-two-Numbers.c)
+* [LCM Calculation by Finding GCD](Basic/LCM-Calculation-by-Finding-GCD.c)
 * [Display Characters from A to Z Using Loop](Basic/Display-Characters-from-A-to-Z-Using-Loop.c)
 * [Count Number of Digits in an Integer](Basic/Count-Number-of-Digits-in-an-Integer.c)
 * [Reverse a Number](Basic/Reverse-a-Number.c)
