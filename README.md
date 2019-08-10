@@ -20,6 +20,11 @@
 * [Find Factorial of a Number](Basic/Find-Factorial-of-a-Number.c)
 * [Generate Multiplication Table](Basic/Generate-Multiplication-Table.c)
 * [Display Fibonacci Sequence](Basic/Display-Fibonacci-Sequence.c)
+* [Find GCD of two Numbers](Basic/Find-GCD-of-two-Numbers.c)
+* [Find LCM of two Numbers](Basic/Find-LCM-of-two-Numbers.c)
+* [Display Characters from A to Z Using Loop](Basic/Display-Characters-from-A-to-Z-Using-Loop.c)
+* [Count Number of Digits in an Integer](Basic/Count-Number-of-Digits-in-an-Integer.c)
+* [Reverse a Number](Basic/Reverse-a-Number.c)
 
 ## Compiler
 * MinGW32
