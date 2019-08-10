@@ -18,6 +18,8 @@
 * [Check Whether a Character is an Alphabet or not](Basic/Check-Whether-a-Character-is-an-Alphabet-or-not.c)
 * [Calculate the Sum of Natural Numbers](Basic/Calculate-the-Sum-of-Natural-Numbers.c)
 * [Find Factorial of a Number](Basic/Find-Factorial-of-a-Number.c)
+* [Generate Multiplication Table](Basic/Generate-Multiplication-Table.c)
+* [Display Fibonacci Sequence](Basic/Display-Fibonacci-Sequence.c)
 
 ## Compiler
 * MinGW32
