@@ -14,6 +14,10 @@
 * [Find the Largest Number Among Three Numbers](Basic/Find-the-Largest-Number-Among-Three-Numbers.c)
 * [Find all Roots of a Quadratic Equation](Basic/Find-all-Roots-of-a-Quadratic-Equation.c)
 * [Check Leap Year](Basic/Check-Leap-Year.c)
+* [Check Whether a Number is Positive or Negative](Basic/Check-Whether-a-Number-is-Positive-or-Negative.c)
+* [Check Whether a Character is an Alphabet or not](Basic/Check-Whether-a-Character-is-an-Alphabet-or-not.c)
+* [Calculate the Sum of Natural Numbers](Basic/Calculate-the-Sum-of-Natural-Numbers.c)
+* [Find Factorial of a Number](Basic/Find-Factorial-of-a-Number.c)
 
 ## Compiler
 * MinGW32
