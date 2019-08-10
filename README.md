@@ -26,6 +26,11 @@
 * [Display Characters from A to Z Using Loop](Basic/Display-Characters-from-A-to-Z-Using-Loop.c)
 * [Count Number of Digits in an Integer](Basic/Count-Number-of-Digits-in-an-Integer.c)
 * [Reverse a Number](Basic/Reverse-a-Number.c)
+* [Calculate the Power of a Number](Basic/Calculate-the-Power-of-a-Number.c)
+* [Check Whether a Number is Palindrome or Not](Basic/Check-Whether-a-Number-is-Palindrome-or-Not.c)
+* [Check Whether a Number is Prime or Not](Basic/Check-Whether-a-Number-is-Prime-or-Not.c)
+* [Display Prime Numbers Between Two Intervals](Basic/Display-Prime-Numbers-Between-Two-Intervals.c)
+* [Check Armstrong Number](Basic/Check-Armstrong-Number.c)
 
 ## Compiler
 * MinGW32
