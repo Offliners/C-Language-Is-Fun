@@ -38,6 +38,11 @@
 * [Print half pyramid using alphabets](Basic/Print-half-pyramid-using-alphabets.c)
 * [Inverted half pyramid](Basic/Inverted-half-pyramid.c)
 * [Inverted half pyramid using numbers](Basic/Inverted-half-pyramid-using-numbers.c)
+* [Print full pyramid](Basic/Print-full-pyramid.c)
+* [Print pyramid using numbers](Basic/Print-pyramid-using-numbers.c)
+* [Inverted full pyramid](Basic/Inverted-full-pyramid.c)
+* [Print Pascal's triangle](Basic/Print-Pascal-s-triangle.c)
+* [Print Floyd's Triangle](Basic/Print-Floyd-s-Triangle.c)
 
 ## Compiler
 * MinGW32
