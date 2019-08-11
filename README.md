@@ -33,7 +33,8 @@
 * [Check Armstrong Number](Basic/Check-Armstrong-Number.c)
 * [Display Armstrong Number Between Two Intervals](Basic/Display-Armstrong-Number-Between-Two-Intervals.c)
 * [Display Factors of a Number](Basic/Display-Factors-of-a-Number.c)
-* [Program to print half pyramid](Basic/Program-to-print-half-pyramid.c)
+* [Print half pyramid](Basic/Print-half-pyramid.c)
+* [Print half pyramid a using numbers](Basic/Print-half-pyramid-a-using-numbers.c)
 
 ## Compiler
 * MinGW32
