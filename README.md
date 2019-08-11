@@ -35,6 +35,9 @@
 * [Display Factors of a Number](Basic/Display-Factors-of-a-Number.c)
 * [Print half pyramid](Basic/Print-half-pyramid.c)
 * [Print half pyramid a using numbers](Basic/Print-half-pyramid-a-using-numbers.c)
+* [Print half pyramid using alphabets](Basic/Print-half-pyramid-using-alphabets.c)
+* [Inverted half pyramid](Basic/Inverted-half-pyramid.c)
+* [Inverted half pyramid using numbers](Basic/Inverted-half-pyramid-using-numbers.c)
 
 ## Compiler
 * MinGW32
