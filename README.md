@@ -48,6 +48,10 @@
 * [Check Prime or Armstrong Number Using User-defined Function](Basic/Check-Prime-or-Armstrong-Number-Using-User-defined-Function.c)
 * [Check Whether a Number can be Expressed as Sum of Two Prime Numbers](Basic/Check-Whether-a-Number-can-be-Expressed-as-Sum-of-Two-Prime-Numbers.c)
 * [Find the Sum of Natural Numbers using Recursion](Basic/Find-the-Sum-of-Natural-Numbers-using-Recursion.c)
+* [Find Factorial of a Number Using Recursion](Basic/Find-Factorial-of-a-Number-Using-Recursion.c)
+* [Find G.C.D Using Recursion](Basic/Find-GCD-Using-Recursion.c)
+* [Convert binary number to decimal](Basic/Convert-binary-number-to-decimal.c)
+* [Convert decimal number to binary](Basic/Convert-decimal-number-to-binary.c)
 
 ## Compiler
 * MinGW32
