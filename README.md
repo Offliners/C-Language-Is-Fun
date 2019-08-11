@@ -43,6 +43,7 @@
 * [Inverted full pyramid](Basic/Inverted-full-pyramid.c)
 * [Print Pascal's triangle](Basic/Print-Pascal-s-triangle.c)
 * [Print Floyd's Triangle](Basic/Print-Floyd-s-Triangle.c)
+* [Simple Calculator using switch Statement](Basic/Simple-Calculator-using-switch-Statement.c)
 
 ## Compiler
 * MinGW32
