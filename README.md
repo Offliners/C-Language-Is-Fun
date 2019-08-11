@@ -45,6 +45,9 @@
 * [Print Floyd's Triangle](Basic/Print-Floyd-s-Triangle.c)
 * [Simple Calculator using switch Statement](Basic/Simple-Calculator-using-switch-Statement.c)
 * [Display Prime Numbers Between Intervals Using Function](Basic/Display-Prime-Numbers-Between-Intervals-Using-Function.c)
+* [Check Prime or Armstrong Number Using User-defined Function](Basic/Check-Prime-or-Armstrong-Number-Using-User-defined-Function.c)
+* [Check Whether a Number can be Expressed as Sum of Two Prime Numbers](Basic/Check-Whether-a-Number-can-be-Expressed-as-Sum-of-Two-Prime-Numbers.c)
+* [Find the Sum of Natural Numbers using Recursion](Basic/Find-the-Sum-of-Natural-Numbers-using-Recursion.c)
 
 ## Compiler
 * MinGW32
