@@ -44,6 +44,7 @@
 * [Print Pascal's triangle](Basic/Print-Pascal-s-triangle.c)
 * [Print Floyd's Triangle](Basic/Print-Floyd-s-Triangle.c)
 * [Simple Calculator using switch Statement](Basic/Simple-Calculator-using-switch-Statement.c)
+* [Display Prime Numbers Between Intervals Using Function](Basic/Display-Prime-Numbers-Between-Intervals-Using-Function.c)
 
 ## Compiler
 * MinGW32
