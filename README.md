@@ -1,5 +1,5 @@
 # C Language Is Fun
-## Basic
+### Basic
 * [Hello](Basic/Hello.c)
 * [Print an Integer (Entered by the User)](Basic/Print-an-Integer(Entered-by-the-User).c)
 * [Add Two Integers](Basic/Add-Two-Integers.c)
@@ -52,6 +52,8 @@
 * [Find G.C.D Using Recursion](Basic/Find-GCD-Using-Recursion.c)
 * [Convert binary number to decimal](Basic/Convert-binary-number-to-decimal.c)
 * [Convert decimal number to binary](Basic/Convert-decimal-number-to-binary.c)
+
+### Projects
 
 ## Compiler
 * MinGW32
