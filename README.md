@@ -31,6 +31,9 @@
 * [Check Whether a Number is Prime or Not](Basic/Check-Whether-a-Number-is-Prime-or-Not.c)
 * [Display Prime Numbers Between Two Intervals](Basic/Display-Prime-Numbers-Between-Two-Intervals.c)
 * [Check Armstrong Number](Basic/Check-Armstrong-Number.c)
+* [Display Armstrong Number Between Two Intervals](Basic/Display-Armstrong-Number-Between-Two-Intervals.c)
+* [Display Factors of a Number](Basic/Display-Factors-of-a-Number.c)
+* [Program to print half pyramid](Basic/Program-to-print-half-pyramid.c)
 
 ## Compiler
 * MinGW32
