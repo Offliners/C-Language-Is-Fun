@@ -54,7 +54,8 @@
 * [Convert decimal number to binary](Basic/Convert-decimal-number-to-binary.c)
 
 ### Projects
-* [Simple Calendar](Projects/Simple-Calendar.c)
+* [Simple Calendar](Projects/Simple-Calendar.md)
+* [Material-File-Management](Projects/Material-File-Management.md)
 
 ## Compiler
 * MinGW32
