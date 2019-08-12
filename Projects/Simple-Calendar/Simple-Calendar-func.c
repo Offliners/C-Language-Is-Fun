@@ -10,7 +10,7 @@ void printMonth(int year,int month)
 void printMonthTitle(int year,int month)
 {
 	printMonthName(month);
-	printf("%d\n",year);
+	printf(" %d\n",year);
 	printf("------------------------------------------\n");
 	printf("  Sun  Mon  Tue  Wed  Thu  Fri  Sat\n");
 }
