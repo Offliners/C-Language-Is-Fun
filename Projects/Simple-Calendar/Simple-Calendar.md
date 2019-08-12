@@ -6,4 +6,5 @@ Simple-Calendar
 ├─Simple-Calendar-main.c
 ├─Simple-Calendar-func.h
 ├─Simple-Calendar-func.c
+├─Simple-Calendar.png
 ```
