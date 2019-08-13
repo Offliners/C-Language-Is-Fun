@@ -52,6 +52,7 @@
 * [Find G.C.D Using Recursion](Basic/Find-GCD-Using-Recursion.c)
 * [Convert binary number to decimal](Basic/Convert-binary-number-to-decimal.c)
 * [Convert decimal number to binary](Basic/Convert-decimal-number-to-binary.c)
+* [Convert Decimal to Octal](Basic/Convert-Decimal-to-Octal.c)
 
 ### Projects
 * [Simple Calendar](Projects/Simple-Calendar/Simple-Calendar.md)
