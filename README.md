@@ -53,6 +53,10 @@
 * [Convert binary number to decimal](Basic/Convert-binary-number-to-decimal.c)
 * [Convert decimal number to binary](Basic/Convert-decimal-number-to-binary.c)
 * [Convert Decimal to Octal](Basic/Convert-Decimal-to-Octal.c)
+* [Convert Octal to Decimal](Basic/Convert-Octal-to-Decimal.c)
+* [Convert Binary to Octal](Basic/Convert-Binary-to-Octal.c)
+* [Convert Octal to Binary](Basic/Convert-Octal-to-Binary.c)
+* [Reverse a Sentence Using Recursion](Basic/Reverse-a-Sentence-Using-Recursion.c)
 
 ### Projects
 * [Simple Calendar](Projects/Simple-Calendar/Simple-Calendar.md)
