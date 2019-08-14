@@ -57,6 +57,12 @@
 * [Convert Binary to Octal](Basic/Convert-Binary-to-Octal.c)
 * [Convert Octal to Binary](Basic/Convert-Octal-to-Binary.c)
 * [Reverse a Sentence Using Recursion](Basic/Reverse-a-Sentence-Using-Recursion.c)
+* [Calculate the Power Using Recursion](Basic/Calculate-the-Power-Using-Recursion.c)
+* [Calculate Average Using Arrays](Basic/Calculate-Average-Using-Arrays.c)
+* [Find Largest Element of an Array](Basic/Find-Largest-Element-of-an-Array.c)
+* [Calculate Standard Deviation](Basic/Calculate-Standard-Deviation.c)
+* [Add Two Matrix Using Multi-dimensional Arrays](Basic/Add-Two-Matrix-Using-Multi-dimensional-Arrays.c)
+* [Multiply to Matrix Using Multi-dimensional Arrays](Basic/Multiply-to-Matrix-Using-Multi-dimensional-Arrays.c)
 
 ### Projects
 * [Simple Calendar](Projects/Simple-Calendar/Simple-Calendar.md)
