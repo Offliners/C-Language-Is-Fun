@@ -64,6 +64,8 @@
 * [Add Two Matrix Using Multi-dimensional Arrays](Basic/Add-Two-Matrix-Using-Multi-dimensional-Arrays.c)
 * [Multiply to Matrix Using Multi-dimensional Arrays](Basic/Multiply-to-Matrix-Using-Multi-dimensional-Arrays.c)
 * [Find Transpose of a Matrix](Basic/Find-Transpose-of-a-Matrix.c)
+* [Multiply two Matrices by Passing Matrix to a Function](Basic/Multiply-two-Matrices-by-Passing-Matrix-to-a-Function.c)
+* [Access Elements of an Array Using Pointer](Basic/Access-Elements-of-an-Array-Using-Pointer.c)
 
 ### Projects
 * [Simple Calendar](Projects/Simple-Calendar/Simple-Calendar.md)
