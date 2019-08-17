@@ -72,6 +72,8 @@
 * [Count the Number of Vowels, Consonants and so on](Basic/Count-the-Number-of-Vowels-Consonants-and-so-on.c)
 * [Remove all Characters in a String Except Alphabet](Basic/Remove-all-Characters-in-a-String-Except-Alphabet.c)
 
+### Data Structures and Algorithms
+
 ### Projects
 * [Simple Calendar](Projects/Simple-Calendar/Simple-Calendar.md)
 * [Material-File-Management](Projects/Material-File-Management/Material-File-Management.md)
