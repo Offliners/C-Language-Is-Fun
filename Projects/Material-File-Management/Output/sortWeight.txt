@@ -1,0 +1,14 @@
+  ID     Object   Material     Para1     Para2    Volumn    Weight
+  45   Cylinder       Iron     4.000     7.000   351.858  2769.125
+  43   Cylinder       Lead     3.000     7.000   197.920  2236.500
+   8       Cube       Lead     5.000     0.000   125.000  1412.500
+  16   Cylinder       Iron     3.000     6.000   169.646  1335.114
+  25       Cube       Iron     4.000     0.000    64.000   503.680
+   7    Pyramid       Lead     4.000     8.000    42.667   482.133
+   2       Ball       Iron     2.000     0.000    10.667    83.947
+  33       Cube   Aluminum     3.000     0.000    27.000    72.900
+   5       Cube       Lead     1.000     0.000     1.000    11.300
+  19   Cylinder    Unknown     4.000     6.000   301.593     0.000
+  26   Cylinder   Aluminum    -5.000     5.000     0.000     0.000
+  21    Unknown   Aluminum     3.000     0.000     0.000     0.000
+  11    Pyramid       Iron     4.000     0.000     0.000     0.000
