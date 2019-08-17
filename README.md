@@ -66,6 +66,11 @@
 * [Find Transpose of a Matrix](Basic/Find-Transpose-of-a-Matrix.c)
 * [Multiply two Matrices by Passing Matrix to a Function](Basic/Multiply-two-Matrices-by-Passing-Matrix-to-a-Function.c)
 * [Access Elements of an Array Using Pointer](Basic/Access-Elements-of-an-Array-Using-Pointer.c)
+* [Swap Numbers in Cyclic Order Using Call by Reference](Basic/Swap-Numbers-in-Cyclic-Order-Using-Call-by-Reference.c)
+* [Find Largest Number Using Dynamic Memory Allocation](Basic/Find-Largest-Number-Using-Dynamic-Memory-Allocation.c)
+* [Find the Frequency of Characters in a String](Basic/Find-the-Frequency-of-Characters-in-a-String.c)
+* [Count the Number of Vowels, Consonants and so on](Basic/Count-the-Number-of-Vowels-Consonants-and-so-on.c)
+* [Remove all Characters in a String Except Alphabet](Basic/Remove-all-Characters-in-a-String-Except-Alphabet.c)
 
 ### Projects
 * [Simple Calendar](Projects/Simple-Calendar/Simple-Calendar.md)
