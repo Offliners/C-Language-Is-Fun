@@ -78,6 +78,13 @@
 * [Store Information of a Student Using Structure](Basic/Store-Information-of-a-Student-Using-Structure.c)
 
 ### Data Structures and Algorithms
+#### Sorting
+
+#### Basic Data Structures
+
+#### Advanced Data Structures
+
+#### Graph Algorithms
 
 ### Projects
 * [Simple Calendar](Projects/Simple-Calendar/Simple-Calendar.md)
