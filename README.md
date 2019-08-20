@@ -71,6 +71,11 @@
 * [Find the Frequency of Characters in a String](Basic/Find-the-Frequency-of-Characters-in-a-String.c)
 * [Count the Number of Vowels, Consonants and so on](Basic/Count-the-Number-of-Vowels-Consonants-and-so-on.c)
 * [Remove all Characters in a String Except Alphabet](Basic/Remove-all-Characters-in-a-String-Except-Alphabet.c)
+* [Find the Length of a String](Basic/Find-the-Length-of-a-String.c)
+* [Concatenate Two Strings](Basic/Concatenate-Two-Strings.c)
+* [Copy String Without Using strcpy()](Basic/Copy-String-Without-Using-strcpy.c)
+* [Sort Elements in Lexicographical Order (Dictionary Order)](Basic/Sort-Elements-in-Lexicographical-Order.c)
+* [Store Information of a Student Using Structure](Basic/Store-Information-of-a-Student-Using-Structure.c)
 
 ### Data Structures and Algorithms
 
