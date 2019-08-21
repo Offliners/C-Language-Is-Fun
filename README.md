@@ -76,6 +76,13 @@
 * [Copy String Without Using strcpy()](Basic/Copy-String-Without-Using-strcpy.c)
 * [Sort Elements in Lexicographical Order (Dictionary Order)](Basic/Sort-Elements-in-Lexicographical-Order.c)
 * [Store Information of a Student Using Structure](Basic/Store-Information-of-a-Student-Using-Structure.c)
+* [Add Two Complex Numbers by Passing Structure to a Function](Basic/Add-Two-Complex-Numbers-by-Passing-Structure-to-a-Function.c)
+* [Calculate Difference Between Two Time Periods](Baisc/Calculate-Difference-Between-Two-Time-Periods.c)
+* [Store Information of Students Using Structure](Basic/Store-Information-of-Students-Using-Structure.c)
+* [Store Information Using Structures with Dynamically Memory Allocation](Basic/Store-Information-Using-Structures-with-Dynamically-Memory-Allocation.c)
+* [Write a Sentence to a File](Basic/Write-a-Sentence-to-a-File.c)
+* [Read a Line From a File and Display it](Basic/Read-a-Line-From-a-File-and-Display-it.c)
+* [Display its own Source Code as Output](Basic/Display-its-own-Source-Code-as-Output.c)
 
 ### Data Structures and Algorithms
 #### Sorting
