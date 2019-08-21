@@ -78,7 +78,7 @@
 * [Store Information of a Student Using Structure](Basic/Store-Information-of-a-Student-Using-Structure.c)
 * [Add Two Distances (in inch-feet) System Using Structures](Basic/Add-Two-Distances-in-inch-feet-System-Using-Structures.c)
 * [Add Two Complex Numbers by Passing Structure to a Function](Basic/Add-Two-Complex-Numbers-by-Passing-Structure-to-a-Function.c)
-* [Calculate Difference Between Two Time Periods](Baisc/Calculate-Difference-Between-Two-Time-Periods.c)
+* [Calculate Difference Between Two Time Periods](Basicc/Calculate-Difference-Between-Two-Time-Periods.c)
 * [Store Information of Students Using Structure](Basic/Store-Information-of-Students-Using-Structure.c)
 * [Store Information Using Structures with Dynamically Memory Allocation](Basic/Store-Information-Using-Structures-with-Dynamically-Memory-Allocation.c)
 * [Write a Sentence to a File](Basic/Write-a-Sentence-to-a-File.c)
