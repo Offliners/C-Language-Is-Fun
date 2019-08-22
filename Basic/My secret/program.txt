@@ -1,0 +1,3 @@
+C Language is fun.
+I love C Language.
+Do you think so?
