@@ -12,6 +12,6 @@ Tic-Tac-Toe
 ```
 
 ### Display
-![]()
-![]()
-![]()
+![Display1](https://github.com/Offliners/C-Language-Is-Fun/blob/master/Projects/Tic-Tac-Toe/Tic-Tac-Toe%20display1.png)
+![Display2](https://github.com/Offliners/C-Language-Is-Fun/blob/master/Projects/Tic-Tac-Toe/Tic-Tac-Toe%20display2.png)
+![Display3](https://github.com/Offliners/C-Language-Is-Fun/blob/master/Projects/Tic-Tac-Toe/Tic-Tac-Toe%20display3.png)
