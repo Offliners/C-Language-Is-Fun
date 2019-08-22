@@ -104,3 +104,5 @@
 
 ## Reference
 https://www.programiz.com/c-programming/examples
+
+https://www.codewithc.com/tag/c-mini-projects/
