@@ -1,0 +1,11 @@
+void mainMenu();
+void playerFitst();
+void startGame();
+void coordination(int x,int y);
+void drawBoard();
+void putXandO(char ch,int pos);
+int possibleWin(int p);
+void computerMove(int n);
+int make2();
+int make4();
+void checkDraw();
