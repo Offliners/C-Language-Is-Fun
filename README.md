@@ -87,6 +87,7 @@
 
 ### Data Structures and Algorithms
 #### Sorting
+* [Insertion Sort](Data%20Structures%20and%20Algorithms/Sorting/Insertion-Sort.c)
 
 #### Basic Data Structures
 
