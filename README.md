@@ -93,6 +93,7 @@
 * [Stack](Data%20Structures%20and%20Algorithms/Basic%20Data%20Structures/Stack.c)
 
 #### Advanced Data Structures
+* [Tree](Data%20Structures%20and%20Algorithms/Advanced%20Data%20Structures/Tree.c)
 
 #### Graph Algorithms
 
