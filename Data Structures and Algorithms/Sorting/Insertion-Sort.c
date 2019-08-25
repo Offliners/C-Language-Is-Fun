@@ -9,7 +9,7 @@ int main()
 	int size = sizeof(data) / sizeof(data[0]);
 
 	insertionSort(data,size);
-	printf("Sorted array in ascending :\n");
+	printf("Sorted array in ascending order :\n");
 	printArray(data,size);
 }
 
