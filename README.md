@@ -98,8 +98,8 @@
 
 ### Projects
 * [Simple Calendar](Projects/Simple-Calendar/Simple-Calendar.md)
-* [Material-File-Management](Projects/Material-File-Management/Material-File-Management.md)
-* [Tic-Tac-Toe](Projects/Tic-Tac-Toe/Tic-Tac-Toe.md)
+* [Material File Management](Projects/Material-File-Management/Material-File-Management.md)
+* [Tic Tac Toe](Projects/Tic-Tac-Toe/Tic-Tac-Toe.md)
 
 ## Compiler
 * MinGW32
