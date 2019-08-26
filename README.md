@@ -89,6 +89,7 @@
 #### Sorting
 * [Insertion Sort](Data%20Structures%20and%20Algorithms/Sorting/Insertion-Sort.c)
 * [Selection Sort](Data%20Structures%20and%20Algorithms/Sorting/Selection-Sort.c)
+* [Bubble Sort](Data%20Structures%20and%20Algorithms/Sorting/Bubble-Sort.c)
 
 #### Basic Data Structures
 * [Stack](Data%20Structures%20and%20Algorithms/Basic%20Data%20Structures/Stack.c)
